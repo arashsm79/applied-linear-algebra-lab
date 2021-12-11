@@ -1,2 +1,2 @@
-# applied-linear-algebra
-Collection of step by step programming exercises to introduce student to the applications of linear algebra.
+# Applied Linear Algebra Labs
+Collection of step by step programming exercises to introduce students to the applications of linear algebra.
