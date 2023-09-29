@@ -26,3 +26,7 @@ Lab#03 v1:
 
 Lab#03 v2: 
 - Eigenfaces and Face reconstruction (Labeled Faces in the Wild)
+
+Lab#03 v3: 
+- PCA
+
