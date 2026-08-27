@@ -1,6 +1,6 @@
 # Applied Linear Algebra Labs
 
-Hands-on [Jupyter](https://jupyter.org/) notebooks that teach applied linear algebra through real projects: image compression with SVD, PCA on MNIST, Google's PageRank algorithm, spectral clustering, quantum computing basics, word embeddings, and more. Useful for anyone learning linear algebra by writing code.
+Hands-on [Jupyter](https://jupyter.org/) and Python notebooks that teach applied linear algebra through real projects: image compression with SVD, PCA on MNIST, Google's PageRank algorithm, spectral clustering, quantum computing basics, word embeddings, and more. Useful for anyone learning linear algebra by writing code.
 
 Each lab ships in one or more versions (`v1` through `v7`). Later versions cover the same core ideas from a different angle or add new topics, so you can work through several versions of the same lab without repeating yourself.
 
